@@ -30,4 +30,4 @@ function test() {
 ![Example Image](project_images/1000x500_thoughts1.jpg?raw=true "Inspiration")
 ![Example Image](project_images/1000x500_thoughts2.jpg?raw=true "Inspiration & Sketches")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+<!-- https://www.youtube.com/watch?v=30yGOxJJ2PQ -->
