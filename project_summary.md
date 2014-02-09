@@ -27,6 +27,8 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+<!-- ![Example Image](project_images/cover.jpg?raw=true "Example Image") -->
+![Example Image](project_images/1000x500_thoughts1.jpg?raw=true "Inspiration")
+![Example Image](project_images/1000x500_thoughts2.jpg?raw=true "Inspiration & Sketches")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
