@@ -29,18 +29,25 @@ Links to External Libraries
 NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
  -->
 ## Technologies Used
-[Google Dart](https://www.dartlang.org/ "Google Dart")
-[Google Fonts](https://www.google.com/fonts "Google Fonts")
-[PHP](http://php.net/ "php")
-[jQuery](http://jquery.com/ "jquery")
+[Google Dart](https://www.dartlang.org/ "Google Dart")<br />
+[Google Fonts](https://www.google.com/fonts "Google Fonts")<br />
+[PHP](http://php.net/ "php")<br />
+[jQuery](http://jquery.com/ "jquery")<br />
 
 
 
 
 ## Inspiration & Sketches
-
-<!-- ![Example Image](project_images/cover.jpg?raw=true "Example Image") -->
 ![Example Image](project_images/1000x500_thoughts1.jpg?raw=true "Inspiration")
 ![Example Image](project_images/1000x500_thoughts2.jpg?raw=true "Inspiration & Sketches")
+
+
+## Art
+![Example Image](project_images/cover.jpg "happy rain")
+![Example Image](project_images/demo.jpg "proposal")
+
+
+
+
 
 <!-- https://www.youtube.com/watch?v=30yGOxJJ2PQ -->
