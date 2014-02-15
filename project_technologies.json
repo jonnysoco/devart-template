@@ -1,16 +1,23 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "twitter"
         ],
         "platforms": [
-            "insert platforms"
+            "android",
+            "ios",
+            "linux",
+            "windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "jquery"
         ]
     },
     "themes": [
-        "insert themes"
+        "moods",
+        "emotions",
+        "happy",
+        "typography",
+        "color"
     ]
 }
