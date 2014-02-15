@@ -17,7 +17,7 @@ Just tweet how happy you are or #happyrain.
 ## Link to Prototype
 <!-- NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it. -->
 
-[Example Link](http://jonmontenegro.com/Google-DevArt/happy-rain "Google DevArt - happy rain")
+[View happy rain](http://jonmontenegro.com/Google-DevArt/happy-rain "Google DevArt - happy rain")
 
 <!-- NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
@@ -28,6 +28,13 @@ function test() {
 Links to External Libraries
 NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
  -->
+## Technologies Used
+[Google Dart](https://www.dartlang.org/ "Google Dart")
+[Google Fonts](https://www.google.com/fonts "Google Fonts")
+[PHP](http://php.net/ "php")
+[jQuery](http://jquery.com/ "jquery")
+
+
 
 
 ## Inspiration & Sketches
