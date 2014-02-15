@@ -1,28 +1,34 @@
-# Project Title
-*Rain
+# Happy Rain
 
-## Authors
+## Author
 - Jon Montenegro
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+“happy rain” is an interactive social media art piece created to explore social media information from twitter to create art. The art piece is dynamically created from positive/happy feelings that have been tweeted from people between specific times. The piece explores social media as a medium, user interactivity, collaboration and displaying mood based information as an art form.
+
+People and their emotional content become the medium for the art.
+
+The result of the art piece is ever changing and may be a change in attitude on the part of the audience that results from the medium of social media itself.
+
+## Participate!
+Because the art piece will constantly updating. You can participate/interact in the art piece itself.
+Just tweet how happy you are or #happyrain.
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+<!-- NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it. -->
 
-[Example Link](http://www.google.com "Example Link")
+[Example Link](http://jonmontenegro.com/Google-DevArt/happy-rain "Google DevArt - happy rain")
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+<!-- NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
 function test() {
-  console.log("Printing a test");
+   console.log("Printing a test");
 }
 ```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+Links to External Libraries
+NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+ -->
 
-[Example Link](http://www.google.com "Example Link")
 
 ## Inspiration & Sketches
 
