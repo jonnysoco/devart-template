@@ -36,12 +36,6 @@ NOTE: You can also use this space to link to external libraries or Github reposi
 
 
 
-
-## Inspiration & Sketches
-![Example Image](project_images/1000x500_thoughts1.jpg?raw=true "Inspiration")
-![Example Image](project_images/1000x500_thoughts2.jpg?raw=true "Inspiration & Sketches")
-
-
 ## Art
 ![Example Image](project_images/cover.jpg "happy rain")
 ![Example Image](project_images/demo.jpg "proposal")
