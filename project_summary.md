@@ -16,7 +16,7 @@ Just tweet how happy you are or #happyrain.
 
 ## Link to Prototype
 <!-- NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it. -->
-9
+
 [View happy rain](http://jonmontenegro.com/Google-DevArt/happy-rain "Google DevArt - happy rain")
 
 <!-- NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
@@ -37,8 +37,8 @@ NOTE: You can also use this space to link to external libraries or Github reposi
 
 
 ## Art
-![Example Image](project_images/cover.jpg "happy rain")
-![Example Image](project_images/demo.jpg "proposal")
+![Example Image](http://jonmontenegro.com/Google-DevArt/happy-rain/cover.jpg "happy rain")
+![Example Image](http://jonmontenegro.com/Google-DevArt/happy-rain/demo.jpg "proposal")
 
 
 
