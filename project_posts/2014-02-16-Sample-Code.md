@@ -1,4 +1,4 @@
-## Sample Code
+## happy rain - sample DART code
 
 Below is a sample piece of code, writtten in <a href="https://www.dartlang.org/" target="_blank">Google Dart</a> to process twitter's json search results.
 
