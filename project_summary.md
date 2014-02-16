@@ -1,7 +1,7 @@
 # Happy Rain
 
 ## Author
-- Jon Montenegro
+Jon Montenegro
 
 ## Description
 “happy rain” is an interactive social media art piece created to explore social media information from twitter to create art. The art piece is dynamically created from positive/happy feelings that have been tweeted from people between specific times. The piece explores social media as a medium, user interactivity, collaboration and displaying mood based information as an art form.
@@ -12,7 +12,11 @@ The result of the art piece is ever changing and may be a change in attitude on 
 
 ## Participate!
 Because the art piece will constantly updating. You can participate/interact in the art piece itself.
-Just tweet how happy you are or #happyrain.
+<em>Just tweet how happy you are or #happyrain.</em>
+
+
+
+
 
 ## Link to Prototype
 <!-- NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it. -->
