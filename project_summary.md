@@ -15,7 +15,7 @@ Because the art piece will constantly updating. You can participate/interact in 
 <em>Just tweet how happy you are or #happyrain.</em>
 
 
-<br /><br /><br />
+
 
 
 ## Link to Prototype
