@@ -10,7 +10,7 @@ People and their emotional content become the medium for the art.
 
 The result of the art piece is ever changing and may be a change in attitude on the part of the audience that results from the medium of social media itself.
 
-## Participate!
+### Participate!
 Because the art piece will constantly updating. You can participate/interact in the art piece itself.
 <em>Just tweet how happy you are or #happyrain.</em>
 
