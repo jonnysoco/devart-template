@@ -37,8 +37,8 @@ NOTE: You can also use this space to link to external libraries or Github reposi
 
 
 ## Art
-![Example Image](project_images/cover.jpg "happy rain")
-![Example Image](project_images/demo.jpg "proposal")
+![Example Image](../project_images/cover.jpg "happy rain")
+![Example Image](../project_images/demo.jpg "proposal")
 
 
 
