@@ -36,9 +36,9 @@ NOTE: You can also use this space to link to external libraries or Github reposi
 
 
 
-## Inspiration & Sketches
+<!-- ## Inspiration & Sketches
 ![Example Image](http://jonmontenegro.com/Google-DevArt/happy-rain/1000x500_thoughts1.jpg "happy rain")
-![Example Image](http://jonmontenegro.com/Google-DevArt/happy-rain/1000x500_thoughts2.jpg "proposal")
+![Example Image](http://jonmontenegro.com/Google-DevArt/happy-rain/1000x500_thoughts2.jpg "proposal") -->
 
 
 
